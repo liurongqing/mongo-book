@@ -1,3 +1,3 @@
 # mongo-book
 
-<https://www.liurongqing/mongo-book/>
+<https://www.liurongqing.com/mongo-book/>
